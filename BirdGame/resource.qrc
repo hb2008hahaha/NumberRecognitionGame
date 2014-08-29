@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.jpg</file>
+        <file>res/background1.jpg</file>
+        <file>res/background2.jpg</file>
+        <file>res/ball.png</file>
+        <file>res/beat.wav</file>
+        <file>res/block.jpg</file>
+        <file>res/budui.mp3</file>
+        <file>res/click.wav</file>
+        <file>res/pig.png</file>
+        <file>res/pull.wav</file>
+        <file>res/shuyixia.mp3</file>
+        <file>res/target.png</file>
+        <file>res/tree.png</file>
+        <file>res/tree2.png</file>
+        <file>res/zhenbang.mp3</file>
+        <file>res/background.mp3</file>
+    </qresource>
+</RCC>
